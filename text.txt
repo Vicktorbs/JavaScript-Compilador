@@ -1,0 +1,14 @@
+html .create
+lang .español
+codif .8
+meta_viewport .uno
+title .Hello_world
+ico .ico->assets->img->name.ico
+link .css->css->name.css
+link .js->js->name.js
+
+header .cre--div*1
+nav .cre--ul>li*1
+article .section--div>h1*2,div>p,div>img*2
+aside .cre--div*1
+footer .cre--div>div*1,code>div*2
